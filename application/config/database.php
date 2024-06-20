@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'planning',
+	'hostname' => 'krv.h.filess.io',
+	'username' => 'planning_poolentire',
+	'password' => '61666ea6a929446e467b61e9d2a3ff66dfd61c05',
+	'database' => 'planning_poolentire',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
