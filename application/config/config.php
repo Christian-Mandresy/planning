@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/planningProduction/';
+$config['base_url'] = 'https://planningcircuit.netlify.app/planning/';
 
 
 /*
@@ -36,7 +36,7 @@ $config['base_url'] = 'http://localhost/planningProduction/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = '';
+$config['index_page'] = 'form-login';
 
 /*
 |--------------------------------------------------------------------------
