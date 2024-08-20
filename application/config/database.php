@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'krv.h.filess.io',
+	'hostname' => 'krv.h.filess.io:3307',
 	'username' => 'planning_poolentire',
 	'password' => '61666ea6a929446e467b61e9d2a3ff66dfd61c05',
 	'database' => 'planning_poolentire',
